@@ -1,5 +1,6 @@
 # Online-Voting-System
- Project Overview
+Project Overview:
+
 The E-Voting System is a web-based platform for conducting elections, allowing voters to securely cast their votes online. The system supports real-time vote tracking, provincial distribution, and authentication mechanisms for both voters and administrators.
 
 This project follows Object-Oriented Programming (OOP) principles and uses the Model-View-Controller (MVC) architectural pattern to ensure scalability, modularity, and maintainability.
